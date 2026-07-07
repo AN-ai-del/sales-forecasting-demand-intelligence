@@ -2,9 +2,4 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-# Ignore general pickle files
-*.pkl
-
-# But allow trained project models
-!models/linear_regression.pkl
 .env
